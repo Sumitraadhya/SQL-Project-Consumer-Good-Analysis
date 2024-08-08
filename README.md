@@ -7,11 +7,13 @@
  	The management noticed that, they do not get enough insights to make quick and smart data-informed decisions to expand their business effectively.
  	So, to understand the business better and see the future growth of company they want to get detailed insights that can help them to understand the potential of future business opportunities. 
  	Let’s dive into the world of data to understand different products, their performance, variations, and much more.
- 
-- **Learning Outcome:**
-•	Major sales going through retail stores.
-•	Q1 and Q2 is the most sellable quarter. Festive season and holidays can be the most obvious reason.
-•	Substantial growth has been observed between sales from year 2020 and 2021. COVID could be one reason why sales growth is low in 2020. 2021 December had  been the top selling month  in the year.
+
+
+- **Learnings:**
+  -  	Major sales going through retail stores.
+  -   Q1 and Q2 is the most sellable quarter. Festive season and holidays can be the most obvious reason.
+  -   Substantial growth has been observed between sales from year 2020 and 2021. COVID could be one reason why sales growth is low in 2020. 2021 December had  been the top selling month  in the year.
+
 
 ## Technical & Soft Skills:
 - [x]	Aggregate Functions & Window Functions: Mastering SUM, AVG, COUNT, MIN, MAX functions. Understanding key differences between window functions Like  ROW_NUMBER, RANK, and DENSE_RANK to perform advanced data analysis with Complex Data sets.
