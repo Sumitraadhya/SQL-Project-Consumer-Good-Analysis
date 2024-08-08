@@ -9,7 +9,7 @@
  	Let’s dive into the world of data to understand different products, their performance, variations, and much more.
  
 - **Learning Outcome:**
-- •	Major sales going through retail stores.
+•	Major sales going through retail stores.
 •	Q1 and Q2 is the most sellable quarter. Festive season and holidays can be the most obvious reason.
 •	Substantial growth has been observed between sales from year 2020 and 2021. COVID could be one reason why sales growth is low in 2020. 2021 December had  been the top selling month  in the year.
 
@@ -20,7 +20,7 @@
 - [x]	 Data Manipulation: Different Data manipulation commands. Like DDL, DML, DQL,DCL, TCL. Advanced SQL Clauses: Like Where, Having, Group By, Order By and their order of execution.
 - [x]	Conditional Logic & JOINS & Subqueries: IF Statement & CASE Statement. Functions like LIMIT, OFFSET, BETWEEN & IN. Different Kind of Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN) Including Self JOIN & Cross JOIN.
 - [x]	Basic Principal of  Database Design: How to create Entity Relationship Diagrams (ERD) and choose appropriate Data Types. Forward Engineer and reverse engineer to create a database.
-- [ ]	- [x]	Gained a comprehensive understanding of extract, transform, load (ETL) process & Data Warehousing Concepts. Understanding fundamental differences between online analytical processing (OLAP) vs. online transactional processing (OLTP) .
+- [x]	Gained a comprehensive understanding of extract, transform, load (ETL) process & Data Warehousing Concepts. Understanding fundamental differences between online analytical processing (OLAP) vs. online transactional processing (OLTP) .
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Topics
