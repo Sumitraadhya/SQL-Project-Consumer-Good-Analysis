@@ -10,9 +10,10 @@
 
 
 - **Learnings:**
-  -   	Major sales going through retail stores.
+
   -   Q1 and Q2 is the most sellable quarter. Festive season and holidays can be the most obvious reason.
   -   Substantial growth has been observed between sales from year 2020 and 2021. COVID could be one reason why sales growth is low in 2020. 2021 December had  been the top selling month  in the year.
+  -   Major sales going through retail stores.
 
 
 ## Technical & Soft Skills:
